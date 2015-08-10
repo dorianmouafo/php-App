@@ -1,0 +1,38 @@
+.onglet
+        {
+display:inline-block;
+margin-left:0px;
+margin-right:0px;
+padding:5px;
+border:0px solid ;
+cursor:pointer;                
+        }
+.onglet_0
+        {
+//background:#bbbbbb;
+border-bottom:0px solid black;
+        }
+.onglet_1
+        {
+border-bottom:0px solid black;
+padding-bottom:4px;
+        }
+.contenu_onglet
+        {
+
+border:0px solid black;
+margin-top:-1px;
+padding:5px;
+display:none;
+        }
+        ul
+        {
+margin-top:0px;
+margin-bottom:0px;
+margin-left:-10px
+        }
+        h1
+        {
+margin:0px;
+padding:0px;
+        }

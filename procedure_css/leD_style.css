@@ -1,0 +1,27 @@
+.le_code
+{
+	display:none;
+}
+
+.entete_tableau_invisible
+{
+ 
+}
+
+.entete_tableau
+{
+ background-color:  #3C4332;  
+ text-align:center;
+}
+
+.ligne_impaire
+{
+ background-color:green;
+}
+
+.ligne_paire
+{
+	
+}
+
+

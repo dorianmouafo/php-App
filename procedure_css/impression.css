@@ -1,0 +1,45 @@
+h1{
+	text-align:center;
+	font-size: 40px;
+}
+
+p{
+    text-align:center;
+	font-family: "Times New Roman", Georgia, serif;
+    font-size: 20px;
+	font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.entete_tableau{
+	background-color:#CCCCCC;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 16px;
+	}
+
+ table.tables {
+	border-collapse:collapse;
+	margin:1px;
+	padding:10px 2px 15px 25px;
+	border:10px;
+}
+style.css (ligne 1122)
+table, th, td {
+border-collapse:collapse;
+font-size:2em;
+padding:10px 2px 15px 25px;
+}
+
+.ligne_impaire,.ligne_paire{
+ background-color:white;
+}
+
+.btn1,.btn2{
+	display:none;
+}
+
+.etat_table{
+	background-color:black;
+}

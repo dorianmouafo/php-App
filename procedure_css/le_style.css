@@ -1,0 +1,38 @@
+.le_code,.la_selection
+{
+	display:none;
+}
+
+.entete_tableau_invisible
+{
+ 
+}
+
+.entete_tableau
+{
+ background-color:#789DC2;
+ text-align:center;
+ color:black;
+ 
+}
+
+.ligne_impaire
+{
+ background-color:#E6F5DB;
+ color:black;
+}
+
+.ligne_paire
+{
+	background-color:#8CC6D7;
+	color:black;
+	border-color:black;
+}
+.tables{
+	background-color:black;
+}
+
+.page_selection{
+	background-color:#006699;
+}
+
